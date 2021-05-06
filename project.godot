@@ -16,6 +16,7 @@ _global_script_class_icons={
 
 Initial_Planet=NodePath("planet_earth")
 player_name="Player"
+orbit_indicator_thickness=8
 
 [application]
 

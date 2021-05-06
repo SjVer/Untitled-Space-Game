@@ -40,6 +40,7 @@ var gravity_direction: Vector3
 var gravity_direction_unnormalized: Vector3
 #planets will set this value for you (check the planet script)
 var planet_name: String
+var planet_node: Node
 # var grounded: bool = false
 var rotation_momentum = Vector3(0, 0, 0)
 var delta_ = 0
@@ -133,7 +134,8 @@ func _integrate_forces(state):
 	
 func _calc_gravity_direction(planet):
 	#print(typeof(get_parent().get_node(planet)))
-	gravity_direction_unnormalized = (get_parent().get_node(planet).global_transform.origin - global_transform.origin)
+	#gravity_direction_unnormalized = (get_parent().get_node(planet).global_transform.origin - global_transform.origin)
+	gravity_direction_unnormalized = planet_node.global_transform.origin - global_transform.origin
 	gravity_direction = gravity_direction_unnormalized.normalized()
 
 func _walk_around_planet(state):
@@ -149,12 +151,14 @@ func _on_player_body_entered(body):
 	if true: #rootnode.get_node(body.name).get_node("Surface").get_name() == "Surface":
 		if lock_rotation_to_planet:
 			transform.basis.y = -gravity_direction 
+	planet_node = body
 	inside_soi = true
 		# grounded = true
 
 func _on_player_body_exited(body):
-	if rootnode.get_node(body.name).get_node("Surface").get_name() == "Surface":
-		print("")
+	#if rootnode.get_node(body.name).get_node("Surface").get_name() == "Surface":
+	#	print("")
+	planet_node = null
 	inside_soi = false
 	
 		# print("not grounded: ",grounded)
