@@ -1,39 +1,53 @@
-[gd_scene load_steps=9 format=2]
+[gd_scene load_steps=11 format=2]
 
 [ext_resource path="res://player/player.tscn" type="PackedScene" id=1]
 [ext_resource path="res://planets/planet_earth.tscn" type="PackedScene" id=2]
 [ext_resource path="res://planets/moon.tscn" type="PackedScene" id=3]
 [ext_resource path="res://scripts/space_map.gd" type="Script" id=4]
-[ext_resource path="res://maps/starssphere.jpeg" type="Texture" id=5]
+[ext_resource path="res://starssphere.jpeg" type="Texture" id=5]
 
-[sub_resource type="PhysicsMaterial" id=3]
+[sub_resource type="PhysicsMaterial" id=1]
 rough = true
 
-[sub_resource type="PanoramaSky" id=1]
+[sub_resource type="PanoramaSky" id=2]
 radiance_size = 4
 panorama = ExtResource( 5 )
 
-[sub_resource type="Environment" id=2]
+[sub_resource type="Environment" id=3]
 background_mode = 2
-background_sky = SubResource( 1 )
+background_sky = SubResource( 2 )
 background_sky_orientation = Basis( 1, 0, 0, 0, 0.707107, -0.707107, 0, 0.707107, 0.707107 )
 background_energy = 0.25
+
+[sub_resource type="SphereMesh" id=4]
+radius = 500.0
+height = 1000.0
+
+[sub_resource type="SpatialMaterial" id=5]
+flags_unshaded = true
+albedo_color = Color( 1, 0.796078, 0, 1 )
 
 [node name="space_map" type="Spatial"]
 script = ExtResource( 4 )
 
 [node name="planet_earth" parent="." instance=ExtResource( 2 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -31.7226, 0, 0 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -31.7226, 0, -20208.4 )
 
 [node name="Area" parent="planet_earth" index="2"]
 gravity = 10.0
 
 [node name="moon" parent="." instance=ExtResource( 3 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 220.681, 77.2593, 67.0822 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 220.681, 77.2593, -20141.4 )
 
-[node name="DirectionalLight" type="DirectionalLight" parent="."]
-transform = Transform( 0.997277, 0, 0.073743, 0, 1, 0, -0.073743, 0, 0.997277, 49.7945, 0, 87.6702 )
-shadow_enabled = true
+[node name="Player" parent="." instance=ExtResource( 1 )]
+transform = Transform( 0.0289858, 0, -0.99958, 0, 1, 0, 0.99958, 0, 0.0289858, -34.609, 41.6551, -20192.1 )
+physics_material_override = SubResource( 1 )
+lock_rotation_to_planet = true
+thrust_values = {
+"big": 10.0,
+"medium": 2.5,
+"small": 0.5
+}
 
 [node name="Label" type="Label" parent="."]
 margin_left = 8.81946
@@ -48,18 +62,21 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="Player" parent="." instance=ExtResource( 1 )]
-transform = Transform( 0.0289858, 0, -0.99958, 0, 1, 0, 0.99958, 0, 0.0289858, -34.609, 41.6551, 16.3554 )
-physics_material_override = SubResource( 3 )
-lock_rotation_to_planet = true
-thrust_values = {
-"big": 10.0,
-"medium": 2.5,
-"small": 0.5
-}
-
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
-environment = SubResource( 2 )
+environment = SubResource( 3 )
+
+[node name="SunDir" type="DirectionalLight" parent="."]
+transform = Transform( 0.997277, 0, 0.073743, 0, 1, 0, -0.073743, 0, 0.997277, 49.7945, 0, 87.6702 )
+visible = false
+shadow_enabled = true
+
+[node name="Sun" type="OmniLight" parent="."]
+light_indirect_energy = 22.56
+omni_range = 5e+06
+
+[node name="MeshInstance" type="MeshInstance" parent="Sun"]
+mesh = SubResource( 4 )
+material/0 = SubResource( 5 )
 
 [editable path="planet_earth"]
 [editable path="moon"]

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/starssphere.jpeg-3507536cdc4df432a9d249d152f26fbc.stex"
+path="res://.import/starssphere.jpeg-dc4081672b0e6c233f4ebb7d01453946.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://maps/starssphere.jpeg"
-dest_files=[ "res://.import/starssphere.jpeg-3507536cdc4df432a9d249d152f26fbc.stex" ]
+source_file="res://starssphere.jpeg"
+dest_files=[ "res://.import/starssphere.jpeg-dc4081672b0e6c233f4ebb7d01453946.stex" ]
 
 [params]
 
