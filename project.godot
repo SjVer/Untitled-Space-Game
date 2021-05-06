@@ -17,6 +17,8 @@ _global_script_class_icons={
 Initial_Planet=NodePath("planet_earth")
 player_name="Player"
 orbit_indicator_thickness=8
+"Period Multiplier"=1.0
+"Rotation Divider"=1.0
 
 [application]
 
@@ -124,5 +126,4 @@ zoom_out={
 [rendering]
 
 quality/driver/fallback_to_gles2=true
-environment/default_clear_color=Color( 0, 0, 0, 1 )
-environment/default_environment="res://space_environment.tres"
+environment/default_environment="res://default_env.tres"

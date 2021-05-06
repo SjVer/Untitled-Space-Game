@@ -122,9 +122,8 @@ func _process(delta):
 					rotation_momentum = Vector3(0,0,0)
 					linear_velocity = Vector3(0,0,0)
 
-	if not planet_name == "space":
-		#_calc_gravity_direction(planet_name)
-		pass
+	if inside_soi:
+		apply_central_impulse(planet_node.rotational_vector)
 
 func _integrate_forces(state):
 	if inside_soi:
