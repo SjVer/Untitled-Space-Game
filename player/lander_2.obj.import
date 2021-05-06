@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lander_2.obj-54f4a92e587519eac31db7de2189cf12.mesh"
+
+[deps]
+
+files=[ "res://.import/lander_2.obj-54f4a92e587519eac31db7de2189cf12.mesh" ]
+
+source_file="res://player/lander_2.obj"
+dest_files=[ "res://.import/lander_2.obj-54f4a92e587519eac31db7de2189cf12.mesh", "res://.import/lander_2.obj-54f4a92e587519eac31db7de2189cf12.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

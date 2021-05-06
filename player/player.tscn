@@ -1,0 +1,49 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://scripts/player.gd" type="Script" id=1]
+[ext_resource path="res://player/lander_2.obj" type="ArrayMesh" id=2]
+[ext_resource path="res://scripts/Cam.gd" type="Script" id=4]
+
+[sub_resource type="BoxShape" id=1]
+extents = Vector3( 1, 0.8, 1.15778 )
+
+[sub_resource type="PrismMesh" id=2]
+size = Vector3( 1, 4, 1 )
+
+[node name="Player" type="RigidBody"]
+gravity_scale = 0.7
+continuous_cd = true
+script = ExtResource( 1 )
+
+[node name="MeshInstance" type="MeshInstance" parent="."]
+transform = Transform( -0.5, 0, -1.62921e-07, 0, 0.5, 0, 1.62921e-07, 0, -0.5, 0, -0.6, 0 )
+mesh = ExtResource( 2 )
+material/0 = null
+material/1 = null
+material/2 = null
+material/3 = null
+material/4 = null
+material/5 = null
+
+[node name="CollisionShape" type="CollisionShape" parent="."]
+shape = SubResource( 1 )
+
+[node name="Cam" type="Spatial" parent="."]
+script = ExtResource( 4 )
+lock_rotation_to_craft = true
+zoom_max = 200.0
+
+[node name="h" type="Spatial" parent="Cam"]
+
+[node name="v" type="Spatial" parent="Cam/h"]
+
+[node name="defaultzoom" type="Spatial" parent="Cam/h/v"]
+
+[node name="ClippedCamera" type="ClippedCamera" parent="Cam/h/v/defaultzoom"]
+far = 1e+06
+
+[node name="MeshInstance" type="MeshInstance" parent="Cam"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.51946, 0 )
+visible = false
+mesh = SubResource( 2 )
+material/0 = null

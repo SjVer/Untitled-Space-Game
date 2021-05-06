@@ -1,0 +1,4854 @@
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+_ready
+body: planet_earth
+ERROR: _get_modified_time: Failed to get modified time for: /usr/bin/scratch3.
+   At: drivers/unix/file_access_unix.cpp:322.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+_ready
+body: planet_earth
+ERROR: set_path: Another resource is loaded from path 'res://player/player.gd' (possible cyclic resource inclusion).
+   At: core/resource.cpp:82.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: set_mouse_mode: NO GRAB
+   At: platform/x11/os_x11.cpp:912.
+_ready
+body: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+_ready
+body: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+rootnode.name: space_map
+ ┖╴Player
+    ┠╴MeshInstance
+    ┠╴CollisionShape
+    ┖╴Cam
+       ┖╴h
+          ┖╴v
+             ┖╴defaultzoom
+                ┖╴ClippedCamera
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/moon").)
+   At: scene/main/node.cpp:1368.
+rootnode.name: space_map
+ ┖╴Player
+    ┠╴MeshInstance
+    ┠╴CollisionShape
+    ┖╴Cam
+       ┖╴h
+          ┖╴v
+             ┖╴defaultzoom
+                ┖╴ClippedCamera
+ ┖╴space_map
+    ┠╴planet_earth
+    ┃  ┠╴MeshInstance
+    ┃  ┠╴Surface
+    ┃  ┖╴Area
+    ┃     ┖╴CollisionShape
+    ┠╴moon
+    ┃  ┠╴MeshInstance
+    ┃  ┠╴Surface
+    ┃  ┖╴Area
+    ┃     ┖╴CollisionShape
+    ┠╴DirectionalLight
+    ┠╴Label
+    ┖╴Player
+       ┠╴MeshInstance
+       ┠╴CollisionShape
+       ┖╴Cam
+          ┖╴h
+             ┖╴v
+                ┖╴defaultzoom
+                   ┖╴ClippedCamera
+moon's body entered by moon
+planet_earth's body entered by planet_earth
+planet_earth's body entered by Player
+planet_earth's body exited by Player
+moon's body entered by Player
+moon's body exited by Player
+ERROR: _get_modified_time: Failed to get modified time for: res://scripts/planet.gd.
+   At: drivers/unix/file_access_unix.cpp:322.
+ERROR: _get_modified_time: Failed to get modified time for: res://scripts/space_map.gd.
+   At: drivers/unix/file_access_unix.cpp:322.
+ERROR: _get_modified_time: Failed to get modified time for: res://scripts/planet.gd.
+   At: drivers/unix/file_access_unix.cpp:322.
+ERROR: load_source_code: Condition "err" is true. Returned: err
+   At: modules/gdscript/gdscript.cpp:813.
+ERROR: load: Cannot load source code from file 'res://scripts/planet.gd'.
+   At: modules/gdscript/gdscript.cpp:2239.
+ERROR: _load: Failed loading resource: res://scripts/planet.gd. Make sure resources have been imported by opening the project in the editor at least once.
+   At: core/io/resource_loader.cpp:278.
+ERROR: _reload_scripts: Condition "!rel_script.is_valid()" is true. Continuing.
+   At: editor/plugins/script_editor_plugin.cpp:794.
+ERROR: _get_modified_time: Failed to get modified time for: res://scripts/space_map.gd.
+   At: drivers/unix/file_access_unix.cpp:322.
+ERROR: load_source_code: Condition "err" is true. Returned: err
+   At: modules/gdscript/gdscript.cpp:813.
+ERROR: load: Cannot load source code from file 'res://scripts/space_map.gd'.
+   At: modules/gdscript/gdscript.cpp:2239.
+ERROR: _load: Failed loading resource: res://scripts/space_map.gd. Make sure resources have been imported by opening the project in the editor at least once.
+   At: core/io/resource_loader.cpp:278.
+ERROR: _reload_scripts: Condition "!rel_script.is_valid()" is true. Continuing.
+   At: editor/plugins/script_editor_plugin.cpp:794.
+ERROR: set_path: Another resource is loaded from path 'res://scripts/player.gd' (possible cyclic resource inclusion).
+   At: core/resource.cpp:82.
+ERROR: set_path: Another resource is loaded from path 'res://scripts/planet.gd' (possible cyclic resource inclusion).
+   At: core/resource.cpp:82.
+ERROR: set_path: Another resource is loaded from path 'res://scripts/space_map.gd' (possible cyclic resource inclusion).
+   At: core/resource.cpp:82.
+ERROR: set_path: Another resource is loaded from path 'res://scripts/planet.gd' (possible cyclic resource inclusion).
+   At: core/resource.cpp:82.
+ERROR: set_path: Another resource is loaded from path 'res://scripts/space_map.gd' (possible cyclic resource inclusion).
+   At: core/resource.cpp:82.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/moon").)
+   At: scene/main/node.cpp:1368.
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+rootnode.name: space_map
+ ┖╴Player
+    ┠╴MeshInstance
+    ┠╴CollisionShape
+    ┖╴Cam
+       ┖╴h
+          ┖╴v
+             ┖╴defaultzoom
+                ┖╴ClippedCamera
+ ┖╴space_map
+    ┠╴planet_earth
+    ┃  ┠╴MeshInstance
+    ┃  ┠╴Surface
+    ┃  ┖╴Area
+    ┃     ┖╴CollisionShape
+    ┠╴moon
+    ┃  ┠╴MeshInstance
+    ┃  ┠╴Surface
+    ┃  ┖╴Area
+    ┃     ┖╴CollisionShape
+    ┠╴DirectionalLight
+    ┠╴Label
+    ┖╴Player
+       ┠╴MeshInstance
+       ┠╴CollisionShape
+       ┖╴Cam
+          ┖╴h
+             ┖╴v
+                ┖╴defaultzoom
+                   ┖╴ClippedCamera
+moon's body entered by moon
+planet_earth's body entered by planet_earth
+planet_earth's body entered by Player
+ERROR: set_path: Another resource is loaded from path 'res://scripts/space_map.gd' (possible cyclic resource inclusion).
+   At: core/resource.cpp:82.
+ERROR: set_path: Another resource is loaded from path 'res://scripts/player.gd' (possible cyclic resource inclusion).
+   At: core/resource.cpp:82.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/moon").)
+   At: scene/main/node.cpp:1368.
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+rootnode.name: space_map
+ ┖╴space_map
+    ┠╴planet_earth
+    ┃  ┠╴MeshInstance
+    ┃  ┠╴Surface
+    ┃  ┖╴Area
+    ┃     ┖╴CollisionShape
+    ┠╴moon
+    ┃  ┠╴MeshInstance
+    ┃  ┠╴Surface
+    ┃  ┖╴Area
+    ┃     ┖╴CollisionShape
+    ┠╴DirectionalLight
+    ┠╴Label
+    ┖╴Player
+       ┠╴MeshInstance
+       ┠╴CollisionShape
+       ┖╴Cam
+          ┖╴h
+             ┖╴v
+                ┖╴defaultzoom
+                   ┖╴ClippedCamera
+moon's body entered by moon
+planet_earth's body entered by planet_earth
+planet_earth's body entered by Player
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/moon").)
+   At: scene/main/node.cpp:1368.
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+ERROR: set_mouse_mode: NO GRAB
+   At: platform/x11/os_x11.cpp:912.
+moon's body entered by moon
+player
+planet_earth's body entered by planet_earth
+player
+planet_earth's body entered by Player
+player
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/Player" (absolute path attempted from "/root/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/Player" (absolute path attempted from "/root/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+[Object:null]
+ERROR: get_node: (Node not found: "/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/Player" (absolute path attempted from "/root/space_map/moon").)
+   At: scene/main/node.cpp:1368.
+[Object:null]
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+moon's body entered by moon
+
+planet_earth's body entered by planet_earth
+
+WARNING: _get: Property not found: Game/Player
+   At: core/project_settings.cpp:209.
+WARNING: _get: Property not found: Game/Player
+   At: core/project_settings.cpp:209.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/Player" (absolute path attempted from "/root/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+[Object:null]
+ERROR: get_node: (Node not found: "/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/Player" (absolute path attempted from "/root/space_map/moon").)
+   At: scene/main/node.cpp:1368.
+[Object:null]
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+moon's body entered by moon
+
+planet_earth's body entered by planet_earth
+
+SCRIPT ERROR: GDScript::reload: Parse Error: The identifier "playernode" isn't declared in the current scope.
+   At: res://scripts/planet.gd:11.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+SCRIPT ERROR: GDScript::reload: Parse Error: The identifier "playernode" isn't declared in the current scope.
+   At: res://scripts/planet.gd:19.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+SCRIPT ERROR: GDScript::reload: Parse Error: The identifier "playernode" isn't declared in the current scope.
+   At: res://scripts/planet.gd:20.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+SCRIPT ERROR: GDScript::reload: Parse Error: The identifier "playernode" isn't declared in the current scope.
+   At: res://scripts/planet.gd:20.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/Player
+/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/Player
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+moon's body entered by moon
+
+planet_earth's body entered by planet_earth
+
+planet_earth's body entered by Player
+
+planet_earth's body exited by Player
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+ 
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --posiGodot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/space_map/Player" (absolute path attempted from "/root/space_map/planet_earth").)
+   At: scene/main/node.cpp:1368.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Player
+Player
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+moon's body entered by moon
+
+planet_earth's body entered by planet_earth
+
+SCRIPT ERROR: GDScript::reload: Parse Error: Expected ',' or ')'
+   At: res://scripts/planet.gd:6.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+SCRIPT ERROR: GDScript::reload: Parse Error: Error parsing expression, misplaced: '='
+   At: res://scripts/planet.gd:10.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+WARNING: _get: Property not found: player_name
+   At: core/project_settings.cpp:209.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+WARNING: _get: Property not found: player_name
+   At: core/project_settings.cpp:209.
+Null
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Player
+ERROR: get_node: (Node not found: "Player" (relative to "/root/moon").)
+   At: scene/main/node.cpp:1371.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Player
+ERROR: get_node: (Node not found: "Player" (relative to "/root").)
+   At: scene/main/node.cpp:1371.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+moon's body entered by moon
+planet_earth's body entered by planet_earth
+planet_earth's body entered by Player
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+inside soi: True
+SCRIPT ERROR: GDScript::reload: Parse Error: The identifier "True" isn't declared in the current scope.
+   At: res://scripts/player.gd:143.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+SCRIPT ERROR: GDScript::reload: Parse Error: The function signature doesn't match the parent. Parent signature is: "void _integrate_forces(PhysicsDirectBodyState)".
+   At: res://scripts/player.gd:126.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+moon setting planet name to moon
+setting new planet: moon
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+SCRIPT ERROR: GDScript::reload: Parse Error: Expected end of statement ("var"), got Identifier ("mass_get") instead.
+   At: res://scripts/player.gd:3.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+SCRIPT ERROR: GDScript::reload: Parse Error: Expected end of statement ("var"), got Identifier ("mass_get") instead.
+   At: res://scripts/player.gd:3.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+ERROR: set_path: Another resource is loaded from path 'res://scripts/Cam.gd' (possible cyclic resource inclusion).
+   At: core/resource.cpp:82.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: get_node: (Node not found: "/root/Player" (absolute path attempted from "/root/space_map/Player/Cam").)
+   At: scene/main/node.cpp:1368.
+tion 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://planets/moon.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://planets/moon.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://planets/moon.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+ERROR: get_node: (Node not found: "planet_earth" (relative to "/root/space_map/Player").)
+   At: scene/main/node.cpp:1371.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+moon setting planet name to moon
+setting new planet: moon
+SCRIPT ERROR: GDScript::reload: Parse Error: Expected end of statement after expression, got ')' instead.
+   At: res://scripts/Cam.gd:45.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+New gravity direction: (-1, 0, 0)
+New gravity direction: (-1, 0, 0)
+New gravity direction: (-1, 0, 0)
+New gravity direction: (-1, 0.000001, 0)
+New gravity direction: (-1, 0.000002, 0)
+New gravity direction: (-1, 0.000003, 0)
+New gravity direction: (-1, 0.000004, 0)
+New gravity direction: (-1, 0.000006, 0)
+New gravity direction: (-1, 0.000008, 0)
+New gravity direction: (-1, 0.000011, 0)
+New gravity direction: (-1, 0.000013, 0)
+New gravity direction: (-1, 0.000016, 0)
+New gravity direction: (-1, 0.00002, 0)
+New gravity direction: (-1, 0.000023, 0)
+New gravity direction: (-1, 0.000027, 0)
+New gravity direction: (-1, 0.000031, 0)
+New gravity direction: (-1, 0.000036, 0)
+New gravity direction: (-1, 0.000041, 0)
+New gravity direction: (-1, 0.000046, 0)
+New gravity direction: (-1, 0.000051, 0)
+New gravity direction: (-1, 0.000057, 0)
+New gravity direction: (-1, 0.000063, 0)
+New gravity direction: (-1, 0.000069, 0)
+New gravity direction: (-1, 0.000076, 0)
+New gravity direction: (-1, 0.000083, 0)
+New gravity direction: (-1, 0.00009, 0)
+New gravity direction: (-1, 0.000098, 0)
+New gravity direction: (-1, 0.000106, 0)
+New gravity direction: (-1, 0.000114, 0)
+New gravity direction: (-1, 0.000122, 0)
+New gravity direction: (-1, 0.000131, 0)
+New gravity direction: (-1, 0.00014, 0)
+New gravity direction: (-1, 0.00015, 0)
+New gravity direction: (-1, 0.00016, 0)
+New gravity direction: (-1, 0.00017, 0)
+New gravity direction: (-1, 0.00018, 0)
+New gravity direction: (-1, 0.000191, 0)
+New gravity direction: (-1, 0.000202, 0)
+New gravity direction: (-1, 0.000214, 0)
+New gravity direction: (-1, 0.000225, 0)
+New gravity direction: (-1, 0.000238, 0)
+New gravity direction: (-1, 0.00025, 0)
+New gravity direction: (-1, 0.000263, 0)
+New gravity direction: (-1, 0.000276, 0)
+New gravity direction: (-1, 0.000289, 0)
+New gravity direction: (-1, 0.000303, 0)
+New gravity direction: (-1, 0.000317, 0)
+New gravity direction: (-1, 0.000332, 0)
+New gravity direction: (-1, 0.000347, 0)
+New gravity direction: (-1, 0.000362, 0)
+New gravity direction: (-1, 0.000378, 0)
+New gravity direction: (-1, 0.000394, 0)
+New gravity direction: (-1, 0.00041, 0)
+New gravity direction: (-1, 0.000427, 0)
+New gravity direction: (-1, 0.000444, 0)
+New gravity direction: (-1, 0.000461, 0)
+New gravity direction: (-1, 0.000479, 0)
+New gravity direction: (-1, 0.000497, 0)
+New gravity direction: (-1, 0.000516, 0)
+New gravity direction: (-1, 0.000535, 0)
+New gravity direction: (-1, 0.000554, 0)
+New gravity direction: (-1, 0.000574, 0)
+New gravity direction: (-1, 0.000594, 0)
+New gravity direction: (-1, 0.000614, 0)
+New gravity direction: (-1, 0.000635, 0)
+New gravity direction: (-1, 0.000656, 0)
+New gravity direction: (-1, 0.000678, 0)
+New gravity direction: (-1, 0.0007, 0)
+New gravity direction: (-1, 0.000723, 0)
+New gravity direction: (-1, 0.000746, 0)
+New gravity direction: (-1, 0.000769, 0)
+New gravity direction: (-1, 0.000793, 0)
+New gravity direction: (-1, 0.000817, 0)
+New gravity direction: (-1, 0.000842, 0)
+New gravity direction: (-1, 0.000867, 0)
+New gravity direction: (-1, 0.000892, 0)
+New gravity direction: (-1, 0.000918, 0)
+New gravity direction: (-1, 0.000945, 0)
+New gravity direction: (-0.999999, 0.000972, 0)
+New gravity direction: (-0.999999, 0.000999, 0)
+New gravity direction: (-0.999999, 0.001027, 0)
+New gravity direction: (-0.999999, 0.001055, 0)
+New gravity direction: (-0.999999, 0.001084, 0)
+New gravity direction: (-0.999999, 0.001113, 0)
+New gravity direction: (-0.999999, 0.001143, 0)
+New gravity direction: (-0.999999, 0.001173, 0)
+New gravity direction: (-0.999999, 0.001204, 0)
+New gravity direction: (-0.999999, 0.001235, 0)
+New gravity direction: (-0.999999, 0.001267, 0)
+New gravity direction: (-0.999999, 0.001299, 0)
+New gravity direction: (-0.999999, 0.001332, 0)
+New gravity direction: (-0.999999, 0.001365, 0)
+New gravity direction: (-0.999999, 0.001399, 0)
+New gravity direction: (-0.999999, 0.001434, 0)
+New gravity direction: (-0.999999, 0.001469, 0)
+New gravity direction: (-0.999999, 0.001504, 0)
+New gravity direction: (-0.999999, 0.00154, 0)
+New gravity direction: (-0.999999, 0.001577, 0)
+New gravity direction: (-0.999999, 0.001614, 0)
+New gravity direction: (-0.999999, 0.001652, 0)
+New gravity direction: (-0.999999, 0.00169, 0)
+New gravity direction: (-0.999999, 0.001729, 0)
+New gravity direction: (-0.999998, 0.001769, 0)
+New gravity direction: (-0.999998, 0.001809, 0)
+New gravity direction: (-0.999998, 0.00185, 0)
+New gravity direction: (-0.999998, 0.001892, 0)
+New gravity direction: (-0.999998, 0.001934, 0)
+New gravity direction: (-0.999998, 0.001977, 0)
+New gravity direction: (-0.999998, 0.00202, 0)
+New gravity direction: (-0.999998, 0.002064, 0)
+New gravity direction: (-0.999998, 0.002109, 0)
+New gravity direction: (-0.999998, 0.002155, 0)
+New gravity direction: (-0.999998, 0.002201, 0)
+New gravity direction: (-0.999998, 0.002248, 0)
+New gravity direction: (-0.999997, 0.002296, 0)
+New gravity direction: (-0.999997, 0.002344, 0)
+New gravity direction: (-0.999997, 0.002393, 0)
+New gravity direction: (-0.999997, 0.002443, 0)
+New gravity direction: (-0.999997, 0.002494, 0)
+New gravity direction: (-0.999997, 0.002545, 0)
+New gravity direction: (-0.999997, 0.002597, 0)
+New gravity direction: (-0.999996, 0.00265, 0)
+New gravity direction: (-0.999996, 0.002704, 0)
+New gravity direction: (-0.999996, 0.002759, 0)
+New gravity direction: (-0.999996, 0.002815, 0)
+New gravity direction: (-0.999996, 0.002871, 0)
+New gravity direction: (-0.999996, 0.002928, 0)
+New gravity direction: (-0.999996, 0.002987, 0)
+New gravity direction: (-0.999995, 0.003046, 0)
+New gravity direction: (-0.999995, 0.003106, 0)
+New gravity direction: (-0.999995, 0.003167, 0)
+New gravity direction: (-0.999995, 0.003229, 0)
+New gravity direction: (-0.999995, 0.003292, 0)
+New gravity direction: (-0.999994, 0.003355, 0)
+New gravity direction: (-0.999994, 0.00342, 0)
+New gravity direction: (-0.999994, 0.003486, 0)
+New gravity direction: (-0.999994, 0.003553, 0)
+New gravity direction: (-0.999993, 0.003621, 0)
+New gravity direction: (-0.999993, 0.00369, 0)
+New gravity direction: (-0.999993, 0.00376, 0)
+New gravity direction: (-0.999993, 0.003832, 0)
+New gravity direction: (-0.999992, 0.003904, 0)
+New gravity direction: (-0.999992, 0.003978, 0)
+New gravity direction: (-0.999992, 0.004053, 0)
+New gravity direction: (-0.999991, 0.004129, 0)
+New gravity direction: (-0.999991, 0.004206, 0)
+New gravity direction: (-0.999991, 0.004284, 0)
+New gravity direction: (-0.99999, 0.004364, 0)
+New gravity direction: (-0.99999, 0.004445, 0)
+New gravity direction: (-0.99999, 0.004527, 0)
+New gravity direction: (-0.999989, 0.004611, 0)
+New gravity direction: (-0.999989, 0.004696, 0)
+New gravity direction: (-0.999989, 0.004783, 0)
+New gravity direction: (-0.999988, 0.004871, 0)
+New gravity direction: (-0.999988, 0.00496, 0)
+New gravity direction: (-0.999987, 0.005051, 0)
+New gravity direction: (-0.999987, 0.005144, 0)
+New gravity direction: (-0.999986, 0.005238, 0)
+New gravity direction: (-0.999986, 0.005334, 0)
+New gravity direction: (-0.999985, 0.005431, 0)
+New gravity direction: (-0.999985, 0.00553, 0)
+New gravity direction: (-0.999984, 0.005631, 0)
+New gravity direction: (-0.999984, 0.005733, 0)
+New gravity direction: (-0.999983, 0.005838, 0)
+New gravity direction: (-0.999982, 0.005944, 0)
+New gravity direction: (-0.999982, 0.006052, 0)
+New gravity direction: (-0.999981, 0.006162, 0)
+New gravity direction: (-0.99998, 0.006274, 0)
+New gravity direction: (-0.99998, 0.006387, 0)
+New gravity direction: (-0.999979, 0.006503, 0)
+New gravity direction: (-0.999978, 0.006621, 0)
+New gravity direction: (-0.999977, 0.006742, 0)
+New gravity direction: (-0.999976, 0.006864, 0)
+New gravity direction: (-0.999976, 0.006989, 0)
+New gravity direction: (-0.999975, 0.007116, 0)
+New gravity direction: (-0.999974, 0.007245, 0)
+New gravity direction: (-0.999973, 0.007377, 0)
+New gravity direction: (-0.999972, 0.007511, 0)
+New gravity direction: (-0.999971, 0.007648, 0)
+New gravity direction: (-0.99997, 0.007788, 0)
+New gravity direction: (-0.999969, 0.00793, 0)
+New gravity direction: (-0.999967, 0.008075, 0)
+New gravity direction: (-0.999966, 0.008223, 0)
+New gravity direction: (-0.999965, 0.008374, 0)
+New gravity direction: (-0.999964, 0.008527, 0)
+New gravity direction: (-0.999962, 0.008684, 0)
+New gravity direction: (-0.999961, 0.008844, 0)
+New gravity direction: (-0.999959, 0.009008, 0)
+New gravity direction: (-0.999958, 0.009174, 0)
+New gravity direction: (-0.999956, 0.009345, 0)
+New gravity direction: (-0.999955, 0.009518, 0)
+New gravity direction: (-0.999953, 0.009696, 0)
+New gravity direction: (-0.999951, 0.009877, 0)
+New gravity direction: (-0.999949, 0.010062, 0)
+New gravity direction: (-0.999947, 0.010251, 0)
+New gravity direction: (-0.999946, 0.010444, 0)
+New gravity direction: (-0.999945, 0.010536, -0)
+New gravity direction: (-0.999944, 0.01062, 0)
+New gravity direction: (-0.999943, 0.010696, -0)
+New gravity direction: (-0.999942, 0.010763, 0)
+New gravity direction: (-0.999941, 0.010825, -0.000003)
+New gravity direction: (-0.999941, 0.010873, 0.000013)
+New gravity direction: (-0.99994, 0.01092, 0.000027)
+New gravity direction: (-0.99994, 0.01096, 0.000034)
+New gravity direction: (-0.99994, 0.010989, 0.000036)
+New gravity direction: (-0.999939, 0.011009, 0.000034)
+New gravity direction: (-0.999939, 0.011026, 0.000036)
+New gravity direction: (-0.999939, 0.011038, 0.000033)
+New gravity direction: (-0.999939, 0.011045, 0.000035)
+New gravity direction: (-0.999939, 0.011047, 0.000031)
+New gravity direction: (-0.999939, 0.011043, 0.000033)
+New gravity direction: (-0.999939, 0.011035, 0.00003)
+New gravity direction: (-0.999939, 0.011027, 0.000029)
+New gravity direction: (-0.999939, 0.01102, 0.000027)
+New gravity direction: (-0.999939, 0.011013, 0.000026)
+New gravity direction: (-0.999939, 0.011007, 0.000025)
+New gravity direction: (-0.99994, 0.011001, 0.000024)
+New gravity direction: (-0.99994, 0.010994, 0.000023)
+New gravity direction: (-0.99994, 0.010987, 0.000022)
+New gravity direction: (-0.99994, 0.01098, 0.000022)
+New gravity direction: (-0.99994, 0.010973, 0.000021)
+New gravity direction: (-0.99994, 0.010966, 0.00002)
+New gravity direction: (-0.99994, 0.010959, 0.000019)
+New gravity direction: (-0.99994, 0.010953, 0.000019)
+New gravity direction: (-0.99994, 0.010946, 0.000018)
+New gravity direction: (-0.99994, 0.010939, 0.000018)
+New gravity direction: (-0.99994, 0.010932, 0.000017)
+New gravity direction: (-0.99994, 0.010925, 0.000017)
+New gravity direction: (-0.99994, 0.010918, 0.000016)
+New gravity direction: (-0.99994, 0.010911, 0.000016)
+New gravity direction: (-0.999941, 0.010904, 0.000015)
+New gravity direction: (-0.999941, 0.010896, 0.000015)
+New gravity direction: (-0.999941, 0.010889, 0.000014)
+New gravity direction: (-0.999941, 0.010882, 0.000014)
+New gravity direction: (-0.999941, 0.010875, 0.000014)
+New gravity direction: (-0.999941, 0.010867, 0.000013)
+New gravity direction: (-0.999941, 0.01086, 0.000013)
+New gravity direction: (-0.999941, 0.010852, 0.000012)
+New gravity direction: (-0.999941, 0.010845, 0.000012)
+New gravity direction: (-0.999941, 0.010838, 0.000012)
+New gravity direction: (-0.999941, 0.010831, 0.000011)
+New gravity direction: (-0.999941, 0.010823, 0.000011)
+New gravity direction: (-0.999941, 0.010815, 0.000011)
+New gravity direction: (-0.999942, 0.010808, 0.00001)
+New gravity direction: (-0.999942, 0.0108, 0.00001)
+New gravity direction: (-0.999942, 0.010793, 0.00001)
+New gravity direction: (-0.999942, 0.010786, 0.000009)
+New gravity direction: (-0.999942, 0.010779, 0.000009)
+New gravity direction: (-0.999942, 0.010771, 0.000009)
+New gravity direction: (-0.999942, 0.010763, 0.000008)
+New gravity direction: (-0.999942, 0.010756, 0.000008)
+New gravity direction: (-0.999942, 0.010749, 0.000008)
+New gravity direction: (-0.999942, 0.010742, 0.000007)
+New gravity direction: (-0.999942, 0.010734, 0.000007)
+New gravity direction: (-0.999942, 0.010727, 0.000007)
+New gravity direction: (-0.999943, 0.010719, 0.000006)
+New gravity direction: (-0.999943, 0.010712, 0.000006)
+New gravity direction: (-0.999943, 0.010704, 0.000006)
+New gravity direction: (-0.999943, 0.010697, 0.000005)
+New gravity direction: (-0.999943, 0.01069, 0.000005)
+New gravity direction: (-0.999943, 0.010682, 0.000005)
+New gravity direction: (-0.999943, 0.010674, 0.000005)
+New gravity direction: (-0.999943, 0.010667, 0.000004)
+New gravity direction: (-0.999943, 0.01066, 0.000004)
+New gravity direction: (-0.999943, 0.010653, 0.000004)
+New gravity direction: (-0.999943, 0.010645, 0.000003)
+New gravity direction: (-0.999943, 0.010638, 0.000003)
+New gravity direction: (-0.999944, 0.01063, 0.000003)
+New gravity direction: (-0.999944, 0.010623, 0.000002)
+New gravity direction: (-0.999944, 0.010615, 0.000002)
+New gravity direction: (-0.999944, 0.010608, 0.000002)
+New gravity direction: (-0.999944, 0.010601, 0.000002)
+New gravity direction: (-0.999944, 0.010593, 0.000001)
+New gravity direction: (-0.999944, 0.010586, 0.000001)
+New gravity direction: (-0.999944, 0.010578, 0.000001)
+New gravity direction: (-0.999944, 0.010571, 0)
+New gravity direction: (-0.999944, 0.010564, -0)
+New gravity direction: (-0.999944, 0.010556, -0)
+New gravity direction: (-0.999944, 0.010549, -0.000001)
+New gravity direction: (-0.999944, 0.010541, -0.000001)
+New gravity direction: (-0.999944, 0.010534, -0.000001)
+New gravity direction: (-0.999945, 0.010527, -0.000001)
+New gravity direction: (-0.999945, 0.01052, -0.000002)
+New gravity direction: (-0.999945, 0.010512, -0.000002)
+New gravity direction: (-0.999945, 0.010505, -0.000002)
+New gravity direction: (-0.999945, 0.010497, -0.000002)
+New gravity direction: (-0.999945, 0.01049, -0.000003)
+New gravity direction: (-0.999945, 0.010482, -0.000003)
+New gravity direction: (-0.999945, 0.010475, -0.000004)
+New gravity direction: (-0.999945, 0.010468, -0.000004)
+New gravity direction: (-0.999945, 0.01046, -0.000004)
+New gravity direction: (-0.999945, 0.010453, -0.000004)
+New gravity direction: (-0.999945, 0.010445, -0.000005)
+New gravity direction: (-0.999945, 0.010438, -0.000005)
+New gravity direction: (-0.999946, 0.010431, -0.000005)
+New gravity direction: (-0.999946, 0.010423, -0.000005)
+New gravity direction: (-0.999946, 0.010415, -0.000006)
+New gravity direction: (-0.999946, 0.010408, -0.000006)
+New gravity direction: (-0.999946, 0.010401, -0.000006)
+New gravity direction: (-0.999946, 0.010393, -0.000007)
+New gravity direction: (-0.999946, 0.010386, -0.000007)
+New gravity direction: (-0.999946, 0.010378, -0.000007)
+New gravity direction: (-0.999946, 0.010371, -0.000007)
+New gravity direction: (-0.999946, 0.010363, -0.000008)
+New gravity direction: (-0.999946, 0.010356, -0.000008)
+New gravity direction: (-0.999946, 0.010349, -0.000008)
+New gravity direction: (-0.999947, 0.010342, -0.000008)
+New gravity direction: (-0.999947, 0.010334, -0.000009)
+New gravity direction: (-0.999947, 0.010326, -0.000009)
+New gravity direction: (-0.999947, 0.010319, -0.000009)
+New gravity direction: (-0.999947, 0.010312, -0.00001)
+New gravity direction: (-0.999947, 0.010304, -0.00001)
+New gravity direction: (-0.999947, 0.010297, -0.00001)
+New gravity direction: (-0.999947, 0.010289, -0.00001)
+New gravity direction: (-0.999947, 0.010282, -0.000011)
+New gravity direction: (-0.999947, 0.010274, -0.000011)
+New gravity direction: (-0.999947, 0.010267, -0.000011)
+New gravity direction: (-0.999947, 0.01026, -0.000011)
+New gravity direction: (-0.999947, 0.010252, -0.000012)
+New gravity direction: (-0.999948, 0.010245, -0.000012)
+New gravity direction: (-0.999948, 0.010237, -0.000012)
+New gravity direction: (-0.999948, 0.01023, -0.000013)
+New gravity direction: (-0.999948, 0.010222, -0.000013)
+New gravity direction: (-0.999948, 0.010215, -0.000013)
+New gravity direction: (-0.999948, 0.010207, -0.000013)
+New gravity direction: (-0.999948, 0.0102, -0.000014)
+New gravity direction: (-0.999948, 0.010192, -0.000014)
+New gravity direction: (-0.999948, 0.010192, -0.000014)
+_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://player/player.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debugGodot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+(-0, 0, 0)
+(-0, 0, 0)
+(1, 0, 0)
+(1, 0, 0)
+(1, -0, 0)
+(1, -0.000001, 0)
+(1, -0.000002, 0)
+(1, -0.000003, 0)
+(1, -0.000004, 0)
+(1, -0.000006, 0)
+(1, -0.000008, 0)
+(1, -0.000011, 0)
+(1, -0.000013, 0)
+(1, -0.000016, 0)
+(1, -0.00002, 0)
+(1, -0.000023, 0)
+(1, -0.000027, 0)
+(1, -0.000032, 0)
+(1, -0.000036, 0)
+(1, -0.000041, 0)
+(1, -0.000046, 0)
+(1, -0.000051, 0)
+(1, -0.000057, 0)
+(1, -0.000063, 0)
+(1, -0.00007, 0)
+(1, -0.000076, 0)
+(1, -0.000083, 0)
+(1, -0.000091, 0)
+(1, -0.000099, 0)
+(1, -0.000107, 0)
+(1, -0.000115, 0)
+(1, -0.000123, 0)
+(1, -0.000132, 0)
+(1, -0.000142, 0)
+(1, -0.000151, 0)
+(1, -0.000161, 0)
+(1, -0.000172, 0)
+(1, -0.000182, 0)
+(1, -0.000193, 0)
+(1, -0.000205, 0)
+(1, -0.000216, 0)
+(1, -0.000228, 0)
+(1, -0.000241, 0)
+(1, -0.000253, 0)
+(1, -0.000266, 0)
+(1, -0.00028, 0)
+(1, -0.000293, 0)
+(1, -0.000308, 0)
+(1, -0.000322, 0)
+(1, -0.000337, 0)
+(1, -0.000352, 0)
+(1, -0.000368, 0)
+(1, -0.000384, 0)
+(1, -0.0004, 0)
+(1, -0.000417, 0)
+(1, -0.000434, 0)
+(1, -0.000451, 0)
+(1, -0.000469, 0)
+(1, -0.000487, 0)
+(1, -0.000506, 0)
+(1, -0.000525, 0)
+(1, -0.000544, 0)
+(1, -0.000564, 0)
+(1, -0.000585, 0)
+(1, -0.000605, 0)
+(1, -0.000626, 0)
+(1, -0.000648, 0)
+(1, -0.00067, 0)
+(1, -0.000692, 0)
+(1, -0.000715, 0)
+(1, -0.000738, 0)
+(1, -0.000762, 0)
+(1, -0.000786, 0)
+(1, -0.000811, 0)
+(1, -0.000836, 0)
+(1, -0.000861, 0)
+(1, -0.000887, 0)
+(1, -0.000914, 0)
+(1, -0.000941, 0)
+(1, -0.000968, 0)
+(0.999999, -0.000996, 0)
+(0.999999, -0.001024, 0)
+(0.999999, -0.001053, 0)
+(0.999999, -0.001083, 0)
+(0.999999, -0.001113, 0)
+(0.999999, -0.001143, 0)
+(0.999999, -0.001174, 0)
+(0.999999, -0.001206, 0)
+(0.999999, -0.001238, 0)
+(0.999999, -0.00127, 0)
+(0.999999, -0.001303, 0)
+(0.999999, -0.001337, 0)
+(0.999999, -0.001371, 0)
+(0.999999, -0.001406, 0)
+(0.999999, -0.001442, 0)
+(0.999999, -0.001478, 0)
+(0.999999, -0.001514, 0)
+(0.999999, -0.001551, 0)
+(0.999999, -0.001589, 0)
+(0.999999, -0.001628, 0)
+(0.999999, -0.001667, 0)
+(0.999999, -0.001707, 0)
+(0.999999, -0.001747, 0)
+(0.999998, -0.001788, 0)
+(0.999998, -0.00183, 0)
+(0.999998, -0.001872, 0)
+(0.999998, -0.001915, 0)
+(0.999998, -0.001959, 0)
+(0.999998, -0.002003, 0)
+(0.999998, -0.002048, 0)
+(0.999998, -0.002094, 0)
+(0.999998, -0.002141, 0)
+(0.999998, -0.002188, 0)
+(0.999997, -0.002237, 0)
+(0.999997, -0.002286, 0)
+(0.999997, -0.002335, 0)
+(0.999997, -0.002386, 0)
+(0.999997, -0.002437, 0)
+(0.999997, -0.002489, 0)
+(0.999997, -0.002543, 0)
+(0.999997, -0.002596, 0)
+(0.999997, -0.002651, 0)
+(0.999996, -0.002707, 0)
+(0.999996, -0.002763, 0)
+(0.999996, -0.002821, 0)
+(0.999996, -0.002879, 0)
+(0.999996, -0.002939, 0)
+(0.999995, -0.002999, 0)
+(0.999995, -0.00306, 0)
+(0.999995, -0.003123, 0)
+(0.999995, -0.003186, 0)
+(0.999995, -0.00325, 0)
+(0.999995, -0.003316, 0)
+(0.999994, -0.003382, 0)
+(0.999994, -0.00345, 0)
+(0.999994, -0.003518, 0)
+(0.999994, -0.003588, 0)
+(0.999993, -0.003659, 0)
+(0.999993, -0.003731, 0)
+(0.999993, -0.003805, 0)
+(0.999992, -0.003879, 0)
+(0.999992, -0.003955, 0)
+(0.999992, -0.004032, 0)
+(0.999991, -0.004111, 0)
+(0.999991, -0.004191, 0)
+(0.999991, -0.004272, 0)
+(0.99999, -0.004354, 0)
+(0.99999, -0.004438, 0)
+(0.99999, -0.004524, 0)
+(0.999989, -0.004611, 0)
+(0.999989, -0.004699, 0)
+(0.999988, -0.004789, 0)
+(0.999988, -0.00488, 0)
+(0.999988, -0.004974, 0)
+(0.999987, -0.005068, 0)
+(0.999986, -0.005165, 0)
+(0.999986, -0.005263, 0)
+(0.999986, -0.005363, 0)
+(0.999985, -0.005464, 0)
+(0.999985, -0.005568, 0)
+(0.999984, -0.005673, 0)
+(0.999983, -0.005781, 0)
+(0.999983, -0.00589, 0)
+(0.999982, -0.006001, 0)
+(0.999981, -0.006115, 0)
+(0.999981, -0.00623, 0)
+(0.99998, -0.006348, 0)
+(0.999979, -0.006468, 0)
+(0.999978, -0.00659, 0)
+(0.999977, -0.006715, 0)
+(0.999977, -0.006842, 0)
+(0.999976, -0.006971, 0)
+(0.999975, -0.007103, 0)
+(0.999974, -0.007238, 0)
+(0.999973, -0.007375, 0)
+(0.999972, -0.007515, 0)
+(0.999971, -0.007657, 0)
+(0.99997, -0.007803, 0)
+(0.999969, -0.007952, 0)
+(0.999967, -0.008103, 0)
+(0.999966, -0.008258, 0)
+(0.999965, -0.008416, 0)
+(0.999963, -0.008577, 0)
+(0.999962, -0.008742, 0)
+(0.99996, -0.00891, 0)
+(0.999959, -0.009082, 0)
+(0.999957, -0.009257, 0)
+(0.999955, -0.009437, 0)
+(0.999954, -0.00962, 0)
+(0.999952, -0.009807, 0)
+(0.999951, -0.009896, 0)
+(0.99995, -0.009977, -0)
+(0.99995, -0.010049, 0)
+(0.999949, -0.010114, -0)
+(0.999948, -0.010173, 0.000003)
+(0.999948, -0.010229, -0.000001)
+(0.999947, -0.010276, 0.000002)
+(0.999947, -0.010319, -0.000001)
+(0.999946, -0.010348, 0.000008)
+(0.999946, -0.010375, 0.000013)
+(0.999946, -0.010397, 0.000012)
+(0.999946, -0.010416, 0.000014)
+(0.999946, -0.010433, 0.000012)
+(0.999945, -0.010447, 0.000015)
+(0.999945, -0.010457, 0.000013)
+(0.999945, -0.010463, 0.000016)
+(0.999945, -0.010465, 0.000014)
+(0.999945, -0.010463, 0.000017)
+(0.999945, -0.010458, 0.000016)
+(0.999945, -0.010451, 0.000017)
+(0.999945, -0.010445, 0.000017)
+(0.999945, -0.010439, 0.000018)
+(0.999946, -0.010434, 0.000019)
+(0.999946, -0.010429, 0.000019)
+(0.999946, -0.010425, 0.00002)
+(0.999946, -0.01042, 0.00002)
+(0.999946, -0.010416, 0.000021)
+(0.999946, -0.01041, 0.000021)
+(0.999946, -0.010405, 0.000022)
+(0.999946, -0.010399, 0.000023)
+(0.999946, -0.010394, 0.000023)
+(0.999946, -0.010389, 0.000024)
+(0.999946, -0.010384, 0.000025)
+(0.999946, -0.010379, 0.000025)
+(0.999946, -0.010374, 0.000026)
+(0.999946, -0.010368, 0.000027)
+(0.999946, -0.010363, 0.000027)
+(0.999946, -0.010358, 0.000028)
+(0.999946, -0.010353, 0.000029)
+(0.999946, -0.010347, 0.00003)
+(0.999946, -0.010341, 0.00003)
+(0.999947, -0.010335, 0.000032)
+(0.999947, -0.010329, 0.000032)
+(0.999947, -0.010324, 0.000033)
+(0.999947, -0.010318, 0.000034)
+(0.999947, -0.010313, 0.000035)
+(0.999947, -0.010307, 0.000036)
+(0.999947, -0.010301, 0.000037)
+(0.999947, -0.010295, 0.000038)
+(0.999947, -0.010289, 0.000039)
+(0.999947, -0.010284, 0.00004)
+(0.999947, -0.010278, 0.000041)
+(0.999947, -0.010273, 0.000042)
+(0.999947, -0.010267, 0.000043)
+(0.999947, -0.010262, 0.000044)
+(0.999947, -0.010256, 0.000045)
+(0.999947, -0.01025, 0.000046)
+(0.999948, -0.010244, 0.000047)
+(0.999948, -0.010238, 0.000048)
+(0.999948, -0.010233, 0.000049)
+(0.999948, -0.010227, 0.00005)
+(0.999948, -0.010221, 0.000051)
+(0.999948, -0.010216, 0.000052)
+(0.999948, -0.01021, 0.000054)
+(0.999948, -0.010204, 0.000055)
+(0.999948, -0.010198, 0.000056)
+(0.999948, -0.010192, 0.000057)
+(0.999948, -0.010186, 0.000058)
+(0.999948, -0.010181, 0.00006)
+(0.999948, -0.010175, 0.000061)
+(0.999948, -0.01017, 0.000062)
+(0.999948, -0.010164, 0.000063)
+(0.999948, -0.010159, 0.000064)
+(0.999948, -0.010153, 0.000066)
+(0.999948, -0.010147, 0.000067)
+(0.999949, -0.010141, 0.000068)
+(0.999949, -0.010135, 0.00007)
+(0.999949, -0.010129, 0.000071)
+(0.999949, -0.010124, 0.000072)
+(0.999949, -0.010118, 0.000074)
+(0.999949, -0.010112, 0.000075)
+(0.999949, -0.010107, 0.000076)
+(0.999949, -0.010101, 0.000078)
+(0.999949, -0.010095, 0.000079)
+(0.999949, -0.010089, 0.00008)
+(0.999949, -0.010084, 0.000082)
+(0.999949, -0.010078, 0.000083)
+(0.999949, -0.010072, 0.000085)
+(0.999949, -0.010066, 0.000086)
+(0.999949, -0.01006, 0.000087)
+(0.999949, -0.010054, 0.000089)
+(0.999949, -0.010049, 0.00009)
+(0.99995, -0.010043, 0.000092)
+(0.99995, -0.010037, 0.000093)
+(0.99995, -0.010031, 0.000094)
+(0.99995, -0.010025, 0.000096)
+(0.99995, -0.01002, 0.000097)
+(0.99995, -0.010014, 0.000099)
+(0.99995, -0.010009, 0.0001)
+(0.99995, -0.010003, 0.000102)
+(0.99995, -0.009998, 0.000103)
+(0.99995, -0.009992, 0.000105)
+(0.99995, -0.009986, 0.000106)
+(0.99995, -0.00998, 0.000108)
+(0.99995, -0.009974, 0.000109)
+(0.99995, -0.009968, 0.000111)
+(0.99995, -0.009962, 0.000112)
+(0.99995, -0.009956, 0.000114)
+(0.999951, -0.00995, 0.000115)
+(0.999951, -0.009944, 0.000117)
+(0.999951, -0.009938, 0.000118)
+(0.999951, -0.009932, 0.00012)
+(0.999951, -0.009926, 0.000121)
+(0.999951, -0.00992, 0.000122)
+(0.999951, -0.009914, 0.000124)
+(0.999951, -0.009908, 0.000125)
+(0.999951, -0.009902, 0.000127)
+(0.999951, -0.009896, 0.000128)
+(0.999951, -0.009891, 0.000129)
+(0.999951, -0.009885, 0.000131)
+(0.999951, -0.009879, 0.000132)
+(0.999951, -0.009872, 0.000134)
+(0.999951, -0.009866, 0.000135)
+(0.999951, -0.00986, 0.000136)
+(0.999951, -0.009854, 0.000138)
+(0.999952, -0.009848, 0.000139)
+(0.999952, -0.009842, 0.00014)
+(0.999952, -0.009837, 0.000142)
+(0.999952, -0.009831, 0.000143)
+(0.999952, -0.009825, 0.000144)
+(0.999952, -0.009819, 0.000145)
+(0.999952, -0.009813, 0.000147)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+(0.999952, -0.009807, 0.000148)
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+(-0, -0, -0)
+(81.376289, -0, -0.102532)
+(81.290428, -0, -0.109836)
+(81.202759, -0.000024, -0.117126)
+(81.113297, -0.000072, -0.124402)
+(81.022034, -0.000143, -0.131662)
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+(80.928993, -0.000239, -0.138907)
+(80.83416, -0.000358, -0.146137)
+(80.737694, -0.000501, -0.153339)
+(80.639442, -0.000668, -0.160526)
+(80.539429, -0.000858, -0.167698)
+(80.437622, -0.001072, -0.174853)
+(80.334045, -0.001311, -0.181993)
+(80.228699, -0.001572, -0.189116)
+(80.121574, -0.001858, -0.196223)
+(80.012695, -0.002167, -0.203314)
+(79.902061, -0.0025, -0.210388)
+(79.78965, -0.002857, -0.217445)
+(79.675484, -0.003237, -0.224486)
+(79.559563, -0.003641, -0.231509)
+(79.441895, -0.004069, -0.238516)
+(79.322479, -0.00452, -0.245505)
+(79.201309, -0.004995, -0.252476)
+(79.078407, -0.005493, -0.25943)
+(78.953766, -0.006015, -0.266366)
+(78.827377, -0.006561, -0.273284)
+(78.699265, -0.00713, -0.280184)
+(78.569427, -0.007723, -0.287066)
+(78.437859, -0.008339, -0.293929)
+(78.304558, -0.008979, -0.300774)
+(78.16954, -0.009643, -0.3076)
+(78.032799, -0.01033, -0.314407)
+(77.894348, -0.01104, -0.321196)
+(77.754181, -0.011774, -0.327965)
+(77.612297, -0.012531, -0.334715)
+(77.468704, -0.013312, -0.341445)
+(77.323425, -0.014116, -0.348156)
+(77.17643, -0.014944, -0.354847)
+(77.027733, -0.015795, -0.361518)
+(76.877342, -0.016669, -0.368169)
+(76.725258, -0.017567, -0.3748)
+(76.571487, -0.018488, -0.381411)
+(76.416023, -0.019433, -0.388001)
+(76.258881, -0.0204, -0.39457)
+(76.100044, -0.021392, -0.401118)
+(75.939537, -0.022406, -0.407646)
+(75.777351, -0.023444, -0.414152)
+(75.613495, -0.024505, -0.420637)
+(75.44796, -0.02559, -0.427101)
+(75.280769, -0.026697, -0.433543)
+(75.1119, -0.027828, -0.439964)
+(74.941368, -0.028983, -0.446362)
+(74.769188, -0.03016, -0.452738)
+(74.595345, -0.031361, -0.459093)
+(74.419838, -0.032585, -0.465424)
+(74.242691, -0.033832, -0.471734)
+(74.063881, -0.035102, -0.47802)
+(73.883446, -0.036396, -0.484284)
+(73.701347, -0.037712, -0.490525)
+(73.517632, -0.039052, -0.496743)
+(73.332253, -0.040415, -0.502937)
+(73.145248, -0.041801, -0.509108)
+(72.956619, -0.043211, -0.515255)
+(72.76635, -0.044643, -0.521379)
+(72.574455, -0.046099, -0.527479)
+(72.380936, -0.047577, -0.533554)
+(72.185791, -0.049079, -0.539605)
+(71.989037, -0.050604, -0.545632)
+(71.790657, -0.052151, -0.551634)
+(71.590668, -0.053722, -0.557612)
+(71.389069, -0.055316, -0.563564)
+(71.185867, -0.056933, -0.569492)
+(70.981041, -0.058573, -0.575394)
+(70.774628, -0.060236, -0.581271)
+(70.566605, -0.061922, -0.587122)
+(70.357002, -0.063632, -0.592948)
+(70.145782, -0.065364, -0.598748)
+(69.932983, -0.067119, -0.604522)
+(69.718605, -0.068897, -0.610269)
+(69.502625, -0.070698, -0.61599)
+(69.285065, -0.072522, -0.621685)
+(69.065926, -0.074369, -0.627352)
+(68.845207, -0.076238, -0.632993)
+(68.622902, -0.078131, -0.638607)
+(68.399033, -0.080047, -0.644194)
+(68.173584, -0.081986, -0.649753)
+(67.946571, -0.083947, -0.655285)
+(67.717987, -0.085932, -0.660789)
+(67.487854, -0.087939, -0.666265)
+(67.256165, -0.08997, -0.671713)
+(67.022896, -0.092023, -0.677132)
+(66.788071, -0.094099, -0.682523)
+(66.551712, -0.096198, -0.687886)
+(66.313797, -0.09832, -0.69322)
+(66.074333, -0.100464, -0.698524)
+(65.833321, -0.102632, -0.7038)
+(65.590767, -0.104822, -0.709046)
+(65.34668, -0.107035, -0.714263)
+(65.101051, -0.109272, -0.71945)
+(64.853889, -0.111531, -0.724607)
+(64.605186, -0.113812, -0.729734)
+(64.354958, -0.116117, -0.734831)
+(64.10321, -0.118444, -0.739897)
+(63.849922, -0.120795, -0.744933)
+(63.595135, -0.123168, -0.749937)
+(63.338814, -0.125564, -0.754911)
+(63.080975, -0.127982, -0.759854)
+(62.821629, -0.130424, -0.764765)
+(62.56076, -0.132888, -0.769644)
+(62.298386, -0.135375, -0.774492)
+(62.034508, -0.137885, -0.779308)
+(61.769131, -0.140418, -0.784092)
+(61.502235, -0.142973, -0.788843)
+(61.233864, -0.145552, -0.793561)
+(60.96397, -0.148153, -0.798247)
+(60.692596, -0.150777, -0.8029)
+(60.419739, -0.153423, -0.80752)
+(60.14537, -0.156093, -0.812106)
+(59.86953, -0.158785, -0.816658)
+(59.592201, -0.1615, -0.821177)
+(59.313389, -0.164238, -0.825662)
+(59.033096, -0.166999, -0.830112)
+(58.751331, -0.169782, -0.834528)
+(58.468094, -0.172588, -0.838909)
+(58.18338, -0.175417, -0.843255)
+(57.897198, -0.178269, -0.847566)
+(57.60955, -0.181144, -0.851842)
+(57.320438, -0.184041, -0.856083)
+(57.029861, -0.186961, -0.860287)
+(56.737823, -0.189905, -0.864455)
+(56.444328, -0.19287, -0.868587)
+(56.149384, -0.195859, -0.872683)
+(55.852982, -0.19887, -0.876742)
+(55.555126, -0.201905, -0.880763)
+(55.255836, -0.204962, -0.884748)
+(54.95509, -0.208042, -0.888695)
+(54.652905, -0.211145, -0.892605)
+(54.349277, -0.21427, -0.896476)
+(54.044216, -0.217419, -0.90031)
+(53.737717, -0.22059, -0.904104)
+(53.429787, -0.223784, -0.907861)
+(53.120422, -0.227001, -0.911578)
+(52.809631, -0.230241, -0.915256)
+(52.497414, -0.233504, -0.918894)
+(52.183769, -0.23679, -0.922493)
+(51.868706, -0.240099, -0.926052)
+(51.552227, -0.24343, -0.92957)
+(51.234329, -0.246785, -0.933048)
+(50.915012, -0.250162, -0.936485)
+(50.594292, -0.253562, -0.939881)
+(50.27216, -0.256986, -0.943235)
+(49.948624, -0.260432, -0.946548)
+(49.623672, -0.263901, -0.949819)
+(49.297325, -0.267394, -0.953047)
+(48.969582, -0.270909, -0.956233)
+(48.640434, -0.274447, -0.959376)
+(48.309895, -0.278009, -0.962475)
+(47.977962, -0.281593, -0.965532)
+(47.644638, -0.285201, -0.968544)
+(47.309929, -0.288831, -0.971512)
+(46.973831, -0.292485, -0.974436)
+(46.636353, -0.296162, -0.977315)
+(46.297485, -0.299862, -0.980149)
+(45.957245, -0.303585, -0.982938)
+(45.615623, -0.307331, -0.985681)
+(45.272636, -0.311101, -0.988377)
+(44.928268, -0.314894, -0.991027)
+(44.582535, -0.31871, -0.99363)
+(44.235432, -0.322549, -0.996186)
+(43.886963, -0.326412, -0.998694)
+(43.537132, -0.330298, -1.001155)
+(43.18594, -0.334207, -1.003567)
+(42.833389, -0.33814, -1.00593)
+(42.479488, -0.342096, -1.008245)
+(42.124226, -0.346076, -1.010509)
+(41.767616, -0.350079, -1.012724)
+(41.409653, -0.354105, -1.014889)
+(41.050346, -0.358155, -1.017003)
+(40.689693, -0.362229, -1.019065)
+(40.708229, -0.36835, -1.028377)
+(40.727726, -0.373388, -1.038613)
+(40.74279, -0.378034, -1.048136)
+(40.754356, -0.382403, -1.056885)
+(40.768654, -0.385638, -1.06178)
+(40.775982, -0.388857, -1.066418)
+(40.781467, -0.392149, -1.070974)
+(40.785973, -0.395966, -1.07517)
+(40.789375, -0.399781, -1.07892)
+(40.791775, -0.40336, -1.082325)
+(40.792355, -0.406989, -1.085613)
+(40.792011, -0.410555, -1.088509)
+(40.790611, -0.414025, -1.091365)
+(40.789501, -0.417436, -1.093508)
+(40.78833, -0.420646, -1.09566)
+(40.787762, -0.423829, -1.096911)
+(40.787125, -0.426784, -1.098179)
+(40.786633, -0.429702, -1.098619)
+(40.786072, -0.432435, -1.099079)
+(40.785637, -0.435124, -1.098714)
+(40.785126, -0.437648, -1.098372)
+(40.784721, -0.440118, -1.09721)
+(40.784405, -0.442325, -1.096035)
+(40.784557, -0.444302, -1.094535)
+(40.78447, -0.445969, -1.093303)
+(40.784382, -0.447485, -1.091918)
+(40.784157, -0.448813, -1.090774)
+(40.784157, -0.449895, -1.089495)
+(40.784061, -0.450822, -1.088383)
+(40.783958, -0.45157, -1.087077)
+(40.783859, -0.452156, -1.086033)
+(40.78376, -0.45253, -1.084735)
+(40.783676, -0.452714, -1.083697)
+(40.783592, -0.4527, -1.082419)
+(40.783516, -0.452488, -1.08139)
+(40.783566, -0.45206, -1.080329)
+(40.783607, -0.451584, -1.079396)
+(40.783604, -0.451228, -1.078564)
+(40.783554, -0.450803, -1.077848)
+(40.783539, -0.450294, -1.077132)
+(40.783501, -0.449842, -1.076563)
+(40.783497, -0.449357, -1.076004)
+(40.783485, -0.448976, -1.075577)
+(40.783493, -0.448579, -1.075136)
+(40.783478, -0.44825, -1.074798)
+(40.783501, -0.447918, -1.074294)
+(40.783497, -0.447648, -1.073917)
+(40.783527, -0.447362, -1.073456)
+(40.783531, -0.44712, -1.073109)
+(40.783546, -0.446875, -1.072627)
+(40.78355, -0.446647, -1.072244)
+(40.783581, -0.446393, -1.071809)
+(40.783581, -0.446126, -1.071431)
+(40.783592, -0.44585, -1.07097)
+(40.783607, -0.445574, -1.070592)
+(40.783623, -0.445286, -1.070158)
+(40.783642, -0.444994, -1.069793)
+(40.783646, -0.444704, -1.069321)
+(40.783661, -0.444418, -1.068917)
+(40.78368, -0.444122, -1.068499)
+(40.783699, -0.443828, -1.068129)
+(40.783707, -0.443536, -1.06772)
+(40.783722, -0.443261, -1.067349)
+(40.783741, -0.442969, -1.066969)
+(40.783749, -0.442674, -1.066572)
+(40.78376, -0.442367, -1.066166)
+(40.783775, -0.442066, -1.065785)
+(40.783787, -0.441766, -1.065413)
+(40.783798, -0.441464, -1.065039)
+(40.783817, -0.441164, -1.064668)
+(40.783829, -0.440867, -1.064294)
+(40.783836, -0.440568, -1.063914)
+(40.783852, -0.440267, -1.063533)
+(40.783867, -0.439966, -1.063157)
+(40.783882, -0.439667, -1.062783)
+(40.783886, -0.439366, -1.062404)
+(40.783909, -0.439067, -1.062027)
+(40.78392, -0.438771, -1.061656)
+(40.783928, -0.438492, -1.061276)
+(40.783947, -0.438233, -1.060895)
+(40.783955, -0.43799, -1.060509)
+(40.783966, -0.437759, -1.060114)
+(40.783978, -0.43754, -1.059712)
+(40.783997, -0.437334, -1.059308)
+(40.784, -0.437136, -1.058898)
+(40.784016, -0.436944, -1.058475)
+(40.784031, -0.43676, -1.05805)
+(40.784046, -0.436584, -1.057626)
+(40.784054, -0.436413, -1.057198)
+(40.784065, -0.436245, -1.05676)
+(40.784088, -0.436084, -1.056324)
+(40.784096, -0.435927, -1.055889)
+(40.784107, -0.435771, -1.055442)
+(40.784126, -0.435622, -1.055002)
+(40.784126, -0.435473, -1.054558)
+(40.784149, -0.435327, -1.054106)
+(40.784157, -0.435182, -1.053656)
+(40.784176, -0.43504, -1.053207)
+(40.784195, -0.434901, -1.052763)
+(40.784195, -0.434761, -1.05231)
+(40.78421, -0.434621, -1.051846)
+(40.784237, -0.434486, -1.051397)
+(40.784237, -0.434353, -1.050955)
+(40.784222, -0.434244, -1.050608)
+(40.784222, -0.434146, -1.050262)
+(40.784214, -0.434062, -1.049991)
+(40.78421, -0.433993, -1.049726)
+(40.784214, -0.433941, -1.049514)
+(40.784214, -0.433905, -1.049308)
+(40.784214, -0.433885, -1.04914)
+(40.784222, -0.433881, -1.04898)
+(40.784214, -0.433893, -1.048845)
+(40.784214, -0.433921, -1.048718)
+(40.784222, -0.433963, -1.048608)
+(40.784222, -0.43402, -1.048505)
+(40.784225, -0.43409, -1.048412)
+(40.784222, -0.434172, -1.048326)
+(40.784225, -0.434267, -1.048247)
+(40.784225, -0.434371, -1.048171)
+(40.784229, -0.434486, -1.0481)
+(40.784225, -0.43461, -1.048031)
+(40.784229, -0.434742, -1.047965)
+(40.784237, -0.434882, -1.0479)
+(40.784237, -0.435028, -1.047835)
+(40.784237, -0.435181, -1.04777)
+(40.784237, -0.435339, -1.047705)
+(40.784237, -0.435502, -1.04764)
+(40.784237, -0.435669, -1.047575)
+(40.784229, -0.435841, -1.047511)
+(40.784237, -0.436016, -1.047446)
+(40.784237, -0.436194, -1.047383)
+(40.784241, -0.436375, -1.047316)
+(40.784237, -0.436558, -1.04725)
+(40.784237, -0.436744, -1.047181)
+(40.784241, -0.436931, -1.047112)
+(40.784237, -0.437121, -1.04704)
+(40.784237, -0.437312, -1.046968)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+(40.784241, -0.437504, -1.046894)
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+(-0, 0, 0)
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+moon setting planet name to moon
+setting new planet: moon
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+moon setting planet name to moon
+setting new planet: moon
+moon setting planet name to space (exited)
+setting new planet: space
+
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+moon setting planet name to moon
+setting new planet: moon
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+moon setting planet name to moon
+setting new planet: moon
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+(0, -1, 0)
+(-0, 0, 0)
+ERROR: set_axis_angle: The axis Vector3 must be normalized.
+   At: core/math/basis.cpp:980.
+SCRIPT ERROR: GDScript::reload: Parse Error: The identifier "rotation_momentum" isn't declared in the current scope.
+   At: res://scripts/player.gd:118.
+ERROR: reload: Method failed. Returning: ERR_PARSE_ERROR
+   At: modules/gdscript/gdscript.cpp:583.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+(0, 0, 0)
+(0, 0, 0)
+(0, 0, 0)
+(0, 0, 0)
+(0, 0, 0)
+(0, 0, 0)
+(0, 0, 0)
+(0, 0, 0)
+(0, 0, 0)
+(0, 0, 0)
+(0, 0, 0)
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://player/player.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+moon setting planet name to moon
+setting new planet: moon
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+moon setting planet name to moon
+setting new planet: moon
+moon setting planet name to space (exited)
+setting new planet: space
+
+moon setting planet name to moon
+setting new planet: moon
+moon setting planet name to space (exited)
+setting new planet: space
+
+moon setting planet name to moon
+setting new planet: moon
+moon setting planet name to space (exited)
+setting new planet: space
+
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+(0, 1, 0) / ((0, 0, 0), (0, 1, 0), (0, 0, 0))
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+planet_earth setting planet name to planet_earth
+setting new planet: planet_earth
+planet_earth setting planet name to space (exited)
+setting new planet: space
+
+moon setting planet name to moon
+setting new planet: moon
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: load_interactive: Cannot open file 'res://space_environment.tres'.
+   At: scene/resources/resource_format_text.cpp:1233.
+ERROR: _load: Failed loading resource: res://space_environment.tres. Make sure resources have been imported by opening the project in the editor at least once.
+   At: core/io/resource_loader.cpp:278.
+ERROR: SceneTree: Default Environment as specified in Project Settings (Rendering -> Environment -> Default Environment) could not be loaded.
+   At: scene/main/scene_tree.cpp:2131.
+ERROR: _resolve_hostname: getaddrinfo failed! Cannot resolve hostname.
+   At: drivers/unix/ip_unix.cpp:112.
+WARNING: _image_request_completed: Error getting image file from URL: https://www.pastepic.xyz/images/2019/08/11/icon_spritebaker2ba3307c52f5f5f5.png
+   At: editor/plugins/asset_library_editor_plugin.cpp:840.
+ERROR: to_int64: Cannot represent 100000000000000000000 as 64-bit integer, provided value is too big.
+   At: core/ustring.cpp:1842.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: set_transform_format: Condition "instance_count > 0" is true.
+   At: scene/resources/multimesh.cpp:305.
+ERROR: set_transform_format: Condition "instance_count > 0" is true.
+   At: scene/resources/multimesh.cpp:305.
+ERROR: set_transform_format: Condition "instance_count > 0" is true.
+   At: scene/resources/multimesh.cpp:305.
+ERROR: set_color_format: Condition "instance_count > 0" is true.
+   At: scene/resources/multimesh.cpp:283.
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240 res://maps/space_map.tscn
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navigation --position 448,240
+Running: /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin --path /home/sjoerdv/Coding/Godot/planets%20project --remote-debug 127.0.0.1:6007 --allow_focus_steal_pid 13861 --debug-collisions --debug-navGodot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+Godot Engine v3.3.stable.custom_build.8e68f2e5f - https://godotengine.org
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+X Error of failed request:  GLXBadFBConfig
+  Major opcode of failed request:  152 (GLX)
+  Minor opcode of failed request:  34 ()
+  Serial number of failed request:  28
+  Current serial number in output stream:  25
+ERROR: initialize: Condition "ctxErrorOccurred || !p->glx_context" is true. Returned: ERR_UNCONFIGURED
+   At: platform/x11/context_gl_x11.cpp:190.
+OpenGL ES 2.0 Renderer: V3D 4.2
+OpenGL ES Batching: ON
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_threaded_mainloop_once_unlocked
+/lib/arm-linux-gnueabihf/libpulse.so.0: undefined symbol: pa_thread_make_realtime
+ 
+ERROR: create: Image width cannot be greater than 16384.
+   At: core/image.cpp:1608.
+WARNING: texture_allocate: Cannot create texture larger than maximum hardware supported size of 4096. Setting size to maximum.
+   At: drivers/gles2/rasterizer_storage_gles2.cpp:563.
+ERROR: texture_set_data: Condition "!read.ptr()" is true.
+   At: drivers/gles2/rasterizer_storage_gles2.cpp:716.
+ERROR: resize: Size of PoolVector cannot be negative.
+   At: ./core/pool_vector.h:519.
+handle_crash: Program crashed with signal 11
+Dumping the backtrace. Please include this when reporting the bug on https://github.com/godotengine/godot/issues
+[1] /lib/arm-linux-gnueabihf/libc.so.6(__default_sa_restorer+0) [0xb6aaa120] (??:0)
+[2] /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin() [0x5eac54] (??:?)
+[3] /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin() [0x5921a4] (??:?)
+[4] /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin() [0x59dc08] (??:?)
+[5] /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin() [0x21eb910] (??:?)
+[6] /home/sjoerdv/Apps/GODOTBUILDS/godot_3.3-stable_rpi4_editor_lto.bin() [0x287ddc4] (??:?)
+-- END OF BACKTRACE --
