@@ -1,8 +1,7 @@
-[gd_scene load_steps=12 format=2]
+[gd_scene load_steps=10 format=2]
 
 [ext_resource path="res://player/player.tscn" type="PackedScene" id=1]
-[ext_resource path="res://planets/planet_earth.tscn" type="PackedScene" id=2]
-[ext_resource path="res://planets/moon.tscn" type="PackedScene" id=3]
+[ext_resource path="res://planets/planet.tscn" type="PackedScene" id=2]
 [ext_resource path="res://scripts/space_map.gd" type="Script" id=4]
 [ext_resource path="res://starssphere.jpeg" type="Texture" id=5]
 
@@ -16,17 +15,15 @@ albedo_color = Color( 1, 0.796078, 0, 1 )
 
 [sub_resource type="PhysicsMaterial" id=3]
 rough = true
+absorbent = true
 
-[sub_resource type="PhysicsMaterial" id=4]
-rough = true
-
-[sub_resource type="PanoramaSky" id=5]
+[sub_resource type="PanoramaSky" id=4]
 radiance_size = 4
 panorama = ExtResource( 5 )
 
-[sub_resource type="Environment" id=6]
+[sub_resource type="Environment" id=5]
 background_mode = 2
-background_sky = SubResource( 5 )
+background_sky = SubResource( 4 )
 background_sky_orientation = Basis( 1, 0, 0, 0, 0.707107, -0.707107, 0, 0.707107, 0.707107 )
 background_energy = 0.25
 
@@ -41,28 +38,24 @@ omni_range = 5e+06
 mesh = SubResource( 1 )
 material/0 = SubResource( 2 )
 
-[node name="earth" parent="Sun" instance=ExtResource( 2 )]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -20190 )
-orbital_height = 20190
-orbital_period = 1.0
-orbital_vector = Vector3( 0.1, 0, 0.1 )
-orbit_color = Color( 0, 0.0392157, 1, 1 )
+[node name="Mercury" parent="Sun" instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0 )
+planet_color = Color( 0.278431, 0.278431, 0.290196, 1 )
+rotational_period = 48.0
+orbital_height = 1692
+show_orbit = false
+orbit_color = Color( 0.356863, 0.356863, 0.356863, 1 )
 
-[node name="moon" parent="Sun/earth" instance=ExtResource( 3 )]
-transform = Transform( -0.280635, 0, -0.959782, 0, 1, 0, 0.959782, 0, -0.280635, 0, 0, -316 )
-physics_material_override = SubResource( 3 )
-planet_color = Color( 0.392157, 0.392157, 0.392157, 1 )
-rotational_period = 1.0
-rotational_vector = Vector3( 0, 10, 0 )
-orbital_height = 316
-orbital_period = 0.001
-orbital_vector = Vector3( 1, 0, 1 )
-orbit_color = Color( 0.643137, 0.643137, 0.643137, 1 )
+[node name="Earth" parent="Sun" instance=ExtResource( 2 )]
+planet_radius = 93
+planet_color = Color( 0.12549, 0.501961, 0.407843, 1 )
+soi_radius = 165
+orbital_height = 3229
+show_orbit = false
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
-transform = Transform( 0.0289858, 0, -0.99958, 0, 1, 0, 0.99958, 0, 0.0289858, -34.609, 0.516872, -19695.4 )
-physics_material_override = SubResource( 4 )
-lock_rotation_to_planet = true
+transform = Transform( 0.0289858, 0, -0.99958, 0, 1, 0, 0.99958, 0, 0.0289858, 547.977, 0, 3084.71 )
+physics_material_override = SubResource( 3 )
 thrust_values = {
 "big": 10.0,
 "medium": 2.5,
@@ -83,7 +76,7 @@ __meta__ = {
 }
 
 [node name="WorldEnvironment" type="WorldEnvironment" parent="."]
-environment = SubResource( 6 )
+environment = SubResource( 5 )
 
 [node name="SunDir" type="DirectionalLight" parent="."]
 transform = Transform( 0.997277, 0, 0.073743, 0, 1, 0, -0.073743, 0, 0.997277, 49.7945, 0, 87.6702 )

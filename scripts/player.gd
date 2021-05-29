@@ -8,6 +8,7 @@ export(bool) var lock_rotation_to_planet = false
 export(bool) var lock_rotation_on_collision = false
 
 export(float) var thrust_scale = 1.0
+export(float) var boost_multiplier = 10.0
 export(Dictionary) var thrust_values = {
 	"big": 10.0,
 	"medium": 2.5,
@@ -78,8 +79,14 @@ func apply_thrust(delta, direction, weight):
 		impulse = global_transform.basis.y
 	if direction == "z":
 		impulse = global_transform.basis.z
+		
+	if direction == "z" and inverse:
+		$Exhaust.emitting = true
+	else:
+		$Exhaust.emitting = false
 
-	apply_impulse(Vector3(0,0,0), impulse * thrust * thrust_scale * delta * (-1 if inverse else 1))
+	apply_impulse(Vector3(0,0,0), impulse * thrust * thrust_scale * delta * 
+		(-1 if inverse else 1) * (1 if not Input.is_action_pressed("boost") else boost_multiplier))
 	# GOTTA REWORK THIS!!!! (prob met pos += momentum variable)
 
 func rotate_vessel(delta, direction):
@@ -121,9 +128,11 @@ func _process(delta):
 					rotation_degrees = beginrot
 					rotation_momentum = Vector3(0,0,0)
 					linear_velocity = Vector3(0,0,0)
+		else:
+			$Exhaust.emitting = false
 
-	if inside_soi:
-		apply_central_impulse(planet_node.rotational_vector)
+	#if inside_soi:
+		#apply_central_impulse(planet_node.rotational_vector)
 
 func _integrate_forces(state):
 	if inside_soi:

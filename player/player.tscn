@@ -1,38 +1,62 @@
-[gd_scene load_steps=7 format=2]
+[gd_scene load_steps=11 format=2]
 
 [ext_resource path="res://scripts/player.gd" type="Script" id=1]
 [ext_resource path="res://player/lander_2.obj" type="ArrayMesh" id=2]
 [ext_resource path="res://scripts/Cam.gd" type="Script" id=4]
 
-[sub_resource type="PhysicsMaterial" id=1]
-rough = true
+[sub_resource type="SpatialMaterial" id=3]
+albedo_color = Color( 1, 0.929412, 0.160784, 1 )
+emission_enabled = true
+emission = Color( 1, 0.976471, 0, 1 )
+emission_energy = 1.0
+emission_operator = 0
+emission_on_uv2 = false
 
-[sub_resource type="BoxShape" id=2]
+[sub_resource type="SpatialMaterial" id=4]
+albedo_color = Color( 0.270588, 0.270588, 0.270588, 1 )
+
+[sub_resource type="SpatialMaterial" id=5]
+albedo_color = Color( 0.705882, 0.705882, 0.705882, 1 )
+
+[sub_resource type="BoxShape" id=1]
 extents = Vector3( 1, 0.8, 1.15778 )
 
-[sub_resource type="PrismMesh" id=3]
+[sub_resource type="PrismMesh" id=2]
 size = Vector3( 1, 4, 1 )
 
+[sub_resource type="SpatialMaterial" id=6]
+albedo_color = Color( 0.478431, 0.25098, 0.0117647, 1 )
+emission_enabled = true
+emission = Color( 1, 0.447059, 0, 1 )
+emission_energy = 1.0
+emission_operator = 0
+emission_on_uv2 = false
+
+[sub_resource type="CylinderMesh" id=7]
+material = SubResource( 6 )
+top_radius = 0.001
+bottom_radius = 0.1
+height = 0.75
+
 [node name="Player" type="RigidBody"]
-physics_material_override = SubResource( 1 )
-gravity_scale = 0.7
 continuous_cd = true
 linear_damp = 0.0
 angular_damp = 0.0
 script = ExtResource( 1 )
+lock_rotation_to_planet = true
 
 [node name="MeshInstance" type="MeshInstance" parent="."]
 transform = Transform( -0.5, 0, -1.62921e-07, 0, 0.5, 0, 1.62921e-07, 0, -0.5, 0, -0.6, 0 )
 mesh = ExtResource( 2 )
-material/0 = null
-material/1 = null
-material/2 = null
-material/3 = null
-material/4 = null
-material/5 = null
+material/0 = SubResource( 3 )
+material/1 = SubResource( 4 )
+material/2 = SubResource( 5 )
+material/3 = SubResource( 5 )
+material/4 = SubResource( 4 )
+material/5 = SubResource( 5 )
 
 [node name="CollisionShape" type="CollisionShape" parent="."]
-shape = SubResource( 2 )
+shape = SubResource( 1 )
 
 [node name="Cam" type="Spatial" parent="."]
 script = ExtResource( 4 )
@@ -51,5 +75,16 @@ far = 1e+06
 [node name="MeshInstance" type="MeshInstance" parent="Cam"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.51946, 0 )
 visible = false
-mesh = SubResource( 3 )
+mesh = SubResource( 2 )
 material/0 = null
+
+[node name="Exhaust" type="CPUParticles" parent="."]
+transform = Transform( 1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0.251248, 1.88883 )
+emitting = false
+lifetime = 0.01
+explosiveness = 0.55
+mesh = SubResource( 7 )
+direction = Vector3( 0, 0, 0 )
+gravity = Vector3( 0, 0, 0 )
+scale_amount = 2.0
+scale_amount_random = 1.0

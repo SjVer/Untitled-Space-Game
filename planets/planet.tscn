@@ -3,35 +3,52 @@
 [ext_resource path="res://scripts/planet.gd" type="Script" id=1]
 
 [sub_resource type="SphereMesh" id=1]
+resource_local_to_scene = true
 radius = 40.0
 height = 80.0
 
-[sub_resource type="SpatialMaterial" id=4]
+[sub_resource type="SpatialMaterial" id=5]
+resource_local_to_scene = true
 albedo_color = Color( 0, 0, 1, 1 )
 
-[sub_resource type="SphereShape" id=2]
+[sub_resource type="SphereShape" id=6]
+resource_local_to_scene = true
 radius = 40.0
 
-[sub_resource type="SphereShape" id=3]
-radius = 80.0
+[sub_resource type="SphereShape" id=4]
+resource_local_to_scene = true
+radius = 120.0
 
-[node name="planet" type="StaticBody"]
+[node name="planet" type="Spatial"]
 script = ExtResource( 1 )
+soi_radius = 80
 
-[node name="MeshInstance" type="MeshInstance" parent="."]
+[node name="Axis" type="Spatial" parent="."]
+transform = Transform( 0.146916, 0, -0.989149, 0, 1, 0, 0.989149, 0, 0.146916, 0, 0, 0 )
+
+[node name="StaticBody" type="StaticBody" parent="Axis"]
+transform = Transform( -0.0626046, 0, 0.998039, 0, 1, 0, -0.998039, 0, -0.0626046, 0, 0, 0 )
+
+[node name="MeshInstance" type="MeshInstance" parent="Axis/StaticBody"]
 mesh = SubResource( 1 )
-material/0 = SubResource( 4 )
+material/0 = SubResource( 5 )
 
-[node name="Surface" type="CollisionShape" parent="."]
-shape = SubResource( 2 )
+[node name="Surface" type="CollisionShape" parent="Axis/StaticBody"]
+shape = SubResource( 6 )
 
-[node name="Area" type="Area" parent="."]
+[node name="Area" type="Area" parent="Axis/StaticBody"]
 space_override = 2
 gravity_point = true
-gravity = 20.0
+gravity = 9.81
 
-[node name="CollisionShape" type="CollisionShape" parent="Area"]
-shape = SubResource( 3 )
+[node name="SOI" type="CollisionShape" parent="Axis/StaticBody/Area"]
+shape = SubResource( 4 )
 
-[connection signal="body_entered" from="Area" to="." method="_on_Area_body_entered"]
-[connection signal="body_exited" from="Area" to="." method="_on_Area_body_exited"]
+[node name="RemoteTransform" type="RemoteTransform" parent="Axis/StaticBody"]
+remote_path = NodePath("/root/EditorNode/@@580/@@581/@@589/@@591/@@595/@@599/@@600/@@601/@@617/@@618/@@627/@@628/@@6060/@@5899/@@5900/@@5901/@@5902/@@5903/planet/(ref) planet")
+
+[node name="(ref) planet" type="Spatial" parent="."]
+transform = Transform( 0.978012, 0, 0.208553, 0, 1, 0, -0.208553, 0, 0.978012, 0, 0, 0 )
+
+[connection signal="body_entered" from="Axis/StaticBody/Area" to="." method="_on_Area_body_entered"]
+[connection signal="body_exited" from="Axis/StaticBody/Area" to="." method="_on_Area_body_exited"]

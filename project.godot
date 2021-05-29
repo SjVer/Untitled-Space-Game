@@ -16,8 +16,8 @@ _global_script_class_icons={
 
 Initial_Planet=NodePath("planet_earth")
 player_name="Player"
-orbit_indicator_thickness=8
-"Period Multiplier"=1.0
+orbit_indicator_thickness=16
+"Period Multiplier"=100.0
 "Rotation Divider"=1.0
 
 [application]
@@ -116,6 +116,11 @@ zoom_in={
 zoom_out={
 "deadzone": 0.5,
 "events": [ Object(InputEventMouseButton,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"button_mask":0,"position":Vector2( 0, 0 ),"global_position":Vector2( 0, 0 ),"factor":1.0,"button_index":5,"pressed":false,"doubleclick":false,"script":null)
+ ]
+}
+boost={
+"deadzone": 0.5,
+"events": [ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":16777241,"unicode":0,"echo":false,"script":null)
  ]
 }
 
